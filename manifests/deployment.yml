@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: purchasesystem 
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: purchasesystem 
+    spec:
+      containers:
+        - name: purchasesystem 
+          image: admin9.azurecr.io/purchasesystem
+          ports:
+          - containerPort: 8080
