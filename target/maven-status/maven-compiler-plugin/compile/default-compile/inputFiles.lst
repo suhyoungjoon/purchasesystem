@@ -1,0 +1,12 @@
+C:\ratingmovie\purchasesystem\src\main\java\local\Application.java
+C:\ratingmovie\purchasesystem\src\main\java\local\config\kafka\KafkaProcessor.java
+C:\ratingmovie\purchasesystem\src\main\java\local\PurchasingSystemController.java
+C:\ratingmovie\purchasesystem\src\main\java\local\PolicyHandler.java
+C:\ratingmovie\purchasesystem\src\main\java\local\external\PaymentSystem.java
+C:\ratingmovie\purchasesystem\src\main\java\local\PurchasingSystemRepository.java
+C:\ratingmovie\purchasesystem\src\main\java\local\AbstractEvent.java
+C:\ratingmovie\purchasesystem\src\main\java\local\Canceled.java
+C:\ratingmovie\purchasesystem\src\main\java\local\Purchased.java
+C:\ratingmovie\purchasesystem\src\main\java\local\PurchasingSystem.java
+C:\ratingmovie\purchasesystem\src\main\java\local\Rated.java
+C:\ratingmovie\purchasesystem\src\main\java\local\external\PaymentSystemService.java

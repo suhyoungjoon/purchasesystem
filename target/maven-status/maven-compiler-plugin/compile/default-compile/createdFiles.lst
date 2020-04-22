@@ -1,0 +1,12 @@
+local\config\kafka\KafkaProcessor.class
+local\PurchasingSystemRepository.class
+local\PurchasingSystemController.class
+local\PurchasingSystem.class
+local\external\PaymentSystemService.class
+local\AbstractEvent.class
+local\external\PaymentSystem.class
+local\Purchased.class
+local\Rated.class
+local\PolicyHandler.class
+local\Canceled.class
+local\Application.class
