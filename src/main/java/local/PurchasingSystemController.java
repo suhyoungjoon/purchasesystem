@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 
  @RestController
+ @RequestMapping(value = "api/purchasing")
  public class PurchasingSystemController {
 
      @Autowired
