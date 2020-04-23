@@ -12,7 +12,7 @@ import java.util.Date;
  * Created by uengine on 2018. 11. 21..
  */
 
-@FeignClient(name="payment", url="http://localhost:8083")
+@FeignClient(name="payment", url="http://payment:8080")
 public interface PaymentSystemService {
 
     @RequestMapping(method= RequestMethod.GET, path="/paymentSystems")
